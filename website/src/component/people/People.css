@@ -1,0 +1,45 @@
+.great{
+    text-align: center;
+    padding: 30px;
+}
+.great p{
+    color: #7a7a7a;
+}
+.testimonial{
+    padding-bottom:150px;
+}
+.co-founder{
+    background-color: #f7f7f8;
+}
+.vector{
+    height: 100px;
+    width: 100px;
+    top:-50px;
+    left:150px;
+}
+.vector img{
+    height: 80px;
+    width: 80px;
+}
+.star{
+    font-size: 16px;
+    color: #f5885f;
+}
+.lorem{
+    font-size: 14px;
+    font-family: "Poppins, sans-serif";
+    color: #7a7a7a;
+    line-height: 1.75;
+}
+.founder-content h4{
+    font-family: "Poppins, sans-serif";
+    font-size: 18px;
+    line-height: 1.833;
+    color: #2b2b2d;
+}
+.found{
+    font-family: "Poppins, sans-serif";
+    font-size: 14px;
+    line-height: 2.357;
+    color: #7a7a7a;
+}

@@ -1,0 +1,39 @@
+
+/* offer-sec-start */
+.off{
+    color: #64b496;
+}
+.offer-content{
+    padding: 20px 0;
+}
+.offer-content h5{
+    color:#7a7a7a;
+}
+.offer{
+	text-align: left;
+	background-image: url('../image/offer.jpg');
+	padding: 200px 0 200px 0;
+	background-size:cover;
+	background-repeat: no-repeat;
+	margin: 50px 0;
+}
+.offer-content h3{
+	letter-spacing:1px;
+	word-spacing:2px;
+}
+.offer-content h2{
+	margin:14px 0 0;
+	display: inline-block;
+	word-spacing:2px;
+}
+.offer-content span{
+	padding: 0 12px;
+	margin-left: 8px;
+	clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%, 20% 50%);
+}
+.offer-content p{
+	margin:0 10px 0 0;
+	padding:20px;
+	word-spacing:18px;
+}
+/* offer-sec-end */
